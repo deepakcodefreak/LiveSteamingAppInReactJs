@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "codingFreaks",
+      "description": "React Redux bootCamp",
+      "id": 1
+    },
+    {
+      "title": "mytv",
+      "description": "sang",
+      "id": 2
+    },
+    {
+      "title": "mytv",
+      "description": "sang Mar gaye",
+      "id": 3
+    },
+    {
+      "title": "deepakCodeFreak",
+      "description": "i am give you a bootcamp on  WT.",
+      "id": 4
+    },
+    {
+      "title": "Programatic navigation!",
+      "description": "i am edited using PATCH ... ooo yeahhh broooo!!!!!!",
+      "id": 6
+    },
+    {
+      "title": "Me streaming ",
+      "description": "please change me ..plzzzzzz",
+      "id": 7
+    }
+  ]
+}
